@@ -1,3 +1,5 @@
+# Arthur Younoussov et Soufiane Saidi
+
 # 🎓 Tuteur IA - Agent Raisonneur
 
 ## 📝 Présentation du Projet
@@ -45,4 +47,5 @@ installez-les :
 
 ### 3. Lancer l'application
 Exécutez la commande suivante dans votre terminal :
+
 `streamlit run app.py`
